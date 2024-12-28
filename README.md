@@ -1,7 +1,7 @@
 
 # Oskar Sundström
 
-- #### Ålder: 26
+- #### Ålder: 28
 - #### Sysselsättning: Studerande (Webbutveckling MIUN)
 - #### Hobbies: Golf, träning och Snowboard åkning
 
